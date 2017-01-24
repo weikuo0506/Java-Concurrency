@@ -1,4 +1,4 @@
-package com.walker.concurrency.chapter1;
+package com.walker.concurrency.inpractice.chapter1;
 
 /**
  * @author walkerwei
